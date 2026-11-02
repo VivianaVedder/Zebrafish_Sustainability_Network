@@ -1,5 +1,6 @@
-# Table of Resources
+# Resources
 
+## Funding Opportunities
 Some of the listed resources only provide funding under certain conditions, but we didn`t want to ommit them.
 
 | Resource  | Type | Source | Last Updated |
@@ -12,3 +13,9 @@ Some of the listed resources only provide funding under certain conditions, but 
 | NOAA Fisheries  | Aquaculture Funding Opportunities and Grants | https://www.fisheries.noaa.gov/national/aquaculture/aquaculture-funding-opportunities-and-grants | 02/11/2026 |
 | USDA  | Special Research Grants for Aquaculture Research (AQUA) | https://www.nifa.usda.gov/grants/programs/special-research-grants-program-aquaculture-aqua | 02/11/2026 |
 | National Institutes of Health (NIH)   | ORIP Grants - G20/S10 Programs | https://orip.nih.gov/division-construction-instruments/s10-instrumentation-programs | 02/11/2026 |
+
+## Initiatives and Information on Sustainability in Aquatic Research Facilities
+
+| Resource  | Source | Last Updated |
+| ------------- | ------------- | ------------- |
+| University College London (UCL) | https://zebrafishucl.org/greenculture | 02/11/2026 |
