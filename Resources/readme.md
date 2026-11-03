@@ -3,7 +3,7 @@
 ## Funding Opportunities
 Some of the listed resources only provide funding under certain conditions, but we didn`t want to ommit them.
 
-| Resource  | Type | Source | Last Updated |
+| Resource  | Type | Source | Last Updated (dd/mm/yyyy) |
 | ------------- | ------------- | ------------- | ------------- |
 | Company of Biologists | Conference Grant | https://www.biologists.com/sustainability-hub/sustainability-initiative/grants/ | 02/11/2026 |
 | EMBO | Lab Sustainability Award | https://www.embo.org/the-embo-communities/embo-lab-sustainability-award/eligibility/ | 02/11/2026 |
